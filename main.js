@@ -35,7 +35,6 @@ function hide() {
   return hidden.classList.add("hidden");
 }
 
-
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
 //------------------------------------------------------------------------------
